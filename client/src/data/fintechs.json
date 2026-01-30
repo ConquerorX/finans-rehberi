@@ -1,0 +1,1254 @@
+[
+  {
+    "id": "papara",
+    "name": "Papara",
+    "status": "active",
+    "category": "super-app",
+    "description": "Türkiye'nin öncü dijital cüzdan ve ödeme platformu. Anında para transferi, cashback kampanyaları, metal ve sanal kart seçenekleri sunuyor. Kripto para alım-satım özelliği ve yatırım araçlarıyla finans süper uygulamasına dönüşüyor.",
+    "website": "https://papara.com",
+    "statusNote": "TCMB listesinde tam yetkili e-para kuruluşu.",
+    "owner": "Bağımsız",
+    "features": [
+      "E-Para İhracı",
+      "Cashback",
+      "Metal Kart"
+    ],
+    "campaigns": [
+      {
+        "merchant": "YouTube Premium",
+        "offer": "%10 İade",
+        "terms": "Aylık max 10 TL",
+        "category": "entertainment",
+        "detail": "YouTube'da Papara Card'ın ile yapacağın toplam 100 TL'ye kadar olan YouTube Premium üyelik harcamasının %10'u hesabına anında nakit olarak geçer. 79,99 TL’lik Youtube Premium üyeliği yaparsan 7,9 TL Cashback kazanırsın. 115,99 TL’lik aile paketi üyeliği yapman durumunda da 10 TL Cashback kazanırsın. (Youtube'un kendi web sitesinden ve Android uygulaması üzerinden yapılan Youtube Premium üyeliklerinde geçerlidir.)"
+      },
+      {
+        "merchant": "Burger King",
+        "offer": "%5 İade",
+        "terms": "Aylık max 50 TL",
+        "category": "food",
+        "detail": "Burger King'te Papara Card'ın ile yapacağın toplam 250 TL'ye kadar olan harcamanın %5'i hesabına anında nakit olarak geçer. 125 TL'lik Burger King harcaması yaparsan 6,25 TL, 250 TL'lik Burger King harcaması yaparsan 12,5 TL Cashback kazanırsın. 500 TL'lik harcama yapman durumunda da aylık maksimum 25 TL Cashback kazanabilirsin."
+      },
+      {
+        "merchant": "Hop",
+        "offer": "%20 İade",
+        "terms": "Aylık max 50 TL",
+        "category": "travel",
+        "detail": "Hop'ta Papara Card'ın ile yapacağın toplam 250 TL'ye kadar olan harcamanın %20'si hesabına anında nakit olarak geçer. 125 TL'lik Hop harcaması yaparsan 25 TL, 250 TL'lik Hop harcaması yaparsan 50 TL Cashback kazanırsın. 500 TL'lik harcama yapman durumunda da aylık maksimum 50 TL Cashback kazanabilirsin."
+      },
+      {
+        "merchant": "ChatGPT",
+        "offer": "%5 İade",
+        "terms": "Aylık max 50 TL",
+        "category": "other",
+        "detail": "ChatGPT'de Papara Card'ın ile yapacağın toplam 1.000 TL'ye kadar olan harcamanın %5'i hesabına anında nakit olarak geçer."
+      },
+      {
+        "merchant": "Temu",
+        "offer": "%5 İade",
+        "terms": "Aylık max 50 TL",
+        "category": "shopping",
+        "detail": "Temu'da Papara Card'ın ile yapacağın toplam 1.000 TL'ye kadar olan harcamanın %5'i hesabına anında nakit olarak geçer. 500 TL'lik Temu harcaması yaparsan 25 TL, 1.000 TL'lik Temu harcaması yaparsan 50 TL Cashback kazanırsın. 2.000 TL'lik harcama yapman durumunda da aylık maksimum 50 TL Cashback kazanabilirsin."
+      },
+      {
+        "merchant": "D&R",
+        "offer": "%5 İade",
+        "terms": "Aylık max 50 TL",
+        "category": "shopping",
+        "detail": "D&R'da Papara Card'ın ile yapacağın toplam 1.000 TL'ye kadar olan harcamanın %5'i hesabına anında nakit olarak geçer. 500 TL'lik D&R harcaması yaparsan 25 TL, 1.000 TL'lik D&R harcaması yaparsan 50 TL Cashback kazanırsın. 2.000 TL'lik harcama yapman durumunda da aylık maksimum 50 TL Cashback kazanabilirsin."
+      },
+      {
+        "merchant": "Uber",
+        "offer": "%20 İade",
+        "terms": "Aylık max 25 TL",
+        "category": "travel",
+        "detail": "Uber'de Papara Card'ın ile yapacağın toplam 125 TL'ye kadar olan harcamanın %20'si hesabına anında nakit olarak geçer. 60 TL'lik Uber harcaması yaparsan 12 TL, 125 TL'lik Uber harcaması yaparsan 25 TL Cashback kazanırsın. 250 TL'lik harcama yapman durumunda da aylık maksimum 25 TL Cashback kazanabilirsin."
+      },
+      {
+        "merchant": "Udemy",
+        "offer": "%5 İade",
+        "terms": "Aylık max 50 TL",
+        "category": "other",
+        "detail": "Udemy'de Papara Card'ın ile yapacağın toplam 1.000 TL'ye kadar olan harcamanın %5'i hesabına anında nakit olarak geçer."
+      },
+      {
+        "merchant": "Eczane",
+        "offer": "%10 İade",
+        "terms": "Aylık max 25 TL",
+        "category": "other",
+        "detail": "Eczane'de Papara Card'ın ile yapacağın toplam 250 TL'ye kadar olan harcamanın %10'u hesabına anında nakit olarak geçer. 150 TL'lik Eczane harcaması yaparsan 15 TL, 250 TL'lik Eczane harcaması yaparsan 25 TL Cashback kazanırsın. 500 TL'lik harcama yapman durumunda da aylık maksimum 25 TL Cashback kazanabilirsin."
+      },
+      {
+        "merchant": "Kahhve.com",
+        "offer": "%15 İade",
+        "terms": "Aylık max 600 TL",
+        "category": "food",
+        "detail": "Kahhve.com'da Papara Card'ın ile yapacağın toplam 4.000 TL'ye kadar olan harcamanın %15'i hesabına anında nakit olarak geçer. 2.000 TL'lik Kahhve.com harcaması yaparsan 300 TL, 1.000 TL'lik Kahhve.com harcaması yaparsan 150 TL Cashback kazanırsın. 6.000 TL'lik harcama yapman durumunda da aylık maksimum 600 TL Cashback kazanabilirsin."
+      }
+    ],
+    "legalName": "Papara Elektronik Para A.Ş."
+  },
+  {
+    "id": "nays",
+    "name": "Nays",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "İş Bankası'nın dijital ödeme platformu. Kredi kartı taksitlendirme, QR ile ödeme ve alışveriş kredisi imkanları sunuyor. Banka müşterisi olmasanız bile kullanabilirsiniz.",
+    "website": "https://naysapp.com.tr",
+    "statusNote": "İş Bankası bünyesinde bankacılık lisansı ile hizmet verir.",
+    "owner": "Türkiye İş Bankası",
+    "features": [
+      "Borç Al",
+      "Kazı Kazan",
+      "Ücretsiz Transfer"
+    ],
+    "campaigns": [
+      {
+        "merchant": "YouTube Premium",
+        "offer": "%50 İade",
+        "terms": "Kampanya koşulları geçerlidir",
+        "category": "entertainment",
+        "detail": "YouTube Premium ödemeni Nays Kart'ınla yap, %50 hediye para kazan. Sevdiğin videoları reklamsız izle, müziklerini arka planda dinle."
+      },
+      {
+        "merchant": "Netflix",
+        "offer": "%50 İade",
+        "terms": "Kampanya koşulları geçerlidir",
+        "category": "entertainment",
+        "detail": "Netflix üyelik ödemeni Nays Kart'ınla yap, %50 hediye para kazan."
+      },
+      {
+        "merchant": "Spotify",
+        "offer": "%50 İade",
+        "terms": "Kampanya koşulları geçerlidir",
+        "category": "entertainment",
+        "detail": "Spotify üyelik ödemeni Nays Kart'ınla yap, %50 hediye para kazan."
+      },
+      {
+        "merchant": "Amazon Prime",
+        "offer": "%50 İade",
+        "terms": "Kampanya koşulları geçerlidir",
+        "category": "entertainment",
+        "detail": "Amazon Prime üyelik ödemeni Nays Kart'ınla yap, %50 hediye para kazan."
+      },
+      {
+        "merchant": "Steam",
+        "offer": "%30 İade",
+        "terms": "Kampanya koşulları geçerlidir",
+        "category": "entertainment",
+        "detail": "Steam harcamalarında Nays Kart'ını kullan, %30'u hediye para olarak cebine gelsin."
+      },
+      {
+        "merchant": "PlayStation Network",
+        "offer": "%30 İade",
+        "terms": "Kampanya koşulları geçerlidir",
+        "category": "entertainment",
+        "detail": "PlayStation Network harcamalarında Nays Kart'ını kullan, %30'u hediye para olarak cebine gelsin."
+      },
+      {
+        "merchant": "E-ticaret Platformları",
+        "offer": "%10 İade",
+        "terms": "Aylık max 150 TL",
+        "category": "shopping",
+        "detail": "Amazon.com.tr, Hepsiburada, n11, Pazarama ve Trendyol'da yapacağın 1.000 TL ve üzeri alışverişlerde %10, toplamda 150 TL hediye para kazan."
+      },
+      {
+        "merchant": "DeFacto",
+        "offer": "%20 İade",
+        "terms": "Max 300 TL İade",
+        "category": "shopping",
+        "detail": "DeFacto alışverişlerinde %20 hediye para (max 300 TL) ve 50.000 TL'ye kadar %2,99 faizli, 3 ay ertelemeli özel Nays Limit fırsatı."
+      },
+      {
+        "merchant": "S Sport Plus",
+        "offer": "400 TL İndirim + 150 TL İade",
+        "terms": "Yıllık üyelikte geçerli",
+        "category": "entertainment",
+        "detail": "Nays'tan alacağın kod ile yıllık üyelik 2.299 TL yerine 1.899 TL. Ayrıca Nays ile ödemede 150 TL hediye para."
+      },
+      {
+        "merchant": "ChatGPT",
+        "offer": "100 TL İade",
+        "terms": "31 Ocak'a kadar, 500 TL üzeri harcamada",
+        "category": "other",
+        "detail": "ChatGPT web sitesi üzerinden yapacağın 500 TL ve üzeri üyelik ödemelerinde 100 TL hediye para kazan."
+      },
+      {
+        "merchant": "Turna.com",
+        "offer": "%20 İade",
+        "terms": "31 Ocak'a kadar, Max 500 TL",
+        "category": "travel",
+        "detail": "Turna.com mobil uygulaması ve web sitesinden yapacağın 1000 TL ve üzeri seyahat harcamalarında %20, toplamda 500 TL hediye para kazan."
+      },
+      {
+        "merchant": "Bitaksi",
+        "offer": "%20 İade",
+        "terms": "31 Ocak'a kadar",
+        "category": "travel",
+        "detail": "Bitaksi uygulaması üzerinden yapacağın yolculuk ödemelerinde %20 hediye para kazan."
+      },
+      {
+        "merchant": "İstanbulkart",
+        "offer": "%10 İade",
+        "terms": "Kampanya koşulları geçerlidir",
+        "category": "travel",
+        "detail": "Nays üzerinden yapacağın İstanbulkart bakiye yüklemelerinde %10 hediye para kazan."
+      },
+      {
+        "merchant": "Fatura Ödeme",
+        "offer": "%10 İade",
+        "terms": "Kampanya koşulları geçerlidir",
+        "category": "other",
+        "detail": "Nays üzerinden yapacağın fatura ödemelerinde tutarın %10'u kadar hediye para kazan."
+      },
+      {
+        "merchant": "Uygulama Marketleri",
+        "offer": "%5 İade",
+        "terms": "Kampanya koşulları geçerlidir",
+        "category": "other",
+        "detail": "Uygulama marketlerinden (App Store, Google Play vb.) yapacağın alışverişlerde %5 hediye para kazan."
+      },
+      {
+        "merchant": "Sigortam.net",
+        "offer": "%10 İndirim",
+        "terms": "Seyahat Sağlık ve Cep Telefonu Sigortası",
+        "category": "other",
+        "detail": "Sigortam.net üzerinden Seyahat Sağlık Sigortası veya Cep Telefonu Sigortası alımlarında %10 indirim."
+      },
+      {
+        "merchant": "Daha Daha",
+        "offer": "Puan Dönüştürme",
+        "terms": "Coca-Cola/Fanta/Sprite kapakları",
+        "category": "other",
+        "detail": "Kapaklardan çıkan şifreleri Daha Daha'da biriktirerek Nays Alışveriş Bakiyesi'ne dönüştürebilirsin."
+      }
+    ],
+    "legalName": "Türkiye İş Bankası A.Ş."
+  },
+  {
+    "id": "sipay",
+    "name": "Sipay",
+    "status": "suspended",
+    "category": "b2b",
+    "description": "E-ticaret odaklı ödeme çözümleri sunan platform. Online mağazalar için sanal POS, link ile ödeme ve marketplace entegrasyonları sağlıyor. TCMB tarafından faaliyeti geçici olarak durduruldu.",
+    "website": "https://sipay.com.tr",
+    "statusNote": "TCMB tarafından 6493 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (b) ve (c) bentlerinde belirtilen ödeme hizmetleri ile 18 inci maddesinin ikinci fıkrasında belirtilen elektronik para ihracı hizmetine ilişkin faaliyet izni geçici olarak durdurulmuştur.",
+    "owner": "Nezih Sipahioğlu",
+    "features": [
+      "Sanal POS",
+      "Cashback"
+    ],
+    "campaigns": [
+      {
+        "merchant": "Netflix",
+        "offer": "%40 Nakit İade",
+        "category": "entertainment"
+      }
+    ],
+    "note": "E-para ihraç yetkisi bulunmuyor.",
+    "phone": "0 (216) 706 2266",
+    "address": "Küçükçamlıca Mah. Ord. Prof. Fahrettin Gökay Cad. No:49 34696 Üsküdar/İstanbul",
+    "legalName": "Sipay Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "ozan",
+    "name": "Ozan",
+    "status": "suspended",
+    "category": "super-app",
+    "description": "Dijital cüzdan ve para transferi uygulaması. Yurt içi ve yurt dışı para gönderimi, kart hizmetleri sunuyordu. TMSF tarafından kayyım atandı ve faaliyetleri durduruldu.",
+    "website": "https://ozan.com",
+    "statusNote": "TCMB tarafından 6493 sayılı Kanun çerçevesinde faaliyet izni geçici olarak durdurulmuştur. Ozan Elektronik Para A.Ş.'ye 31/10/2025 tarihinde Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyım olarak atanmıştır.",
+    "owner": "Ozan Özerk",
+    "features": [
+      "Ozan Business"
+    ],
+    "note": "Tam e-para lisansı yok.",
+    "phone": "0 (850) 220 6926",
+    "address": "Sahrayıcedit Mah. Batman Sk. No:30 İç Kapı No: 46 Kadıköy/İstanbul",
+    "legalName": "Ozan Elektronik Para A.Ş."
+  },
+  {
+    "id": "tosla",
+    "name": "Tosla",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "Akbank'ın dijital ödeme platformu. Temassız ödeme, para transferi ve bütçe yönetimi araçları sunuyor. Genç kullanıcılara yönelik modern arayüzü ile öne çıkıyor.",
+    "website": "https://akode.com",
+    "statusNote": "Akbank iştiraki tam yetkili kuruluştur.",
+    "owner": "Akbank",
+    "features": [
+      "Tosback",
+      "E-Para"
+    ],
+    "phone": "0 (850) 477 0867",
+    "address": "Konaklar Mah. Selvili Sk. Sabancı Center (Kule 2) Apt. No:2/2 Beşiktaş/İstanbul",
+    "legalName": "Aköde Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "pep",
+    "name": "Peple",
+    "status": "suspended",
+    "category": "remittance",
+    "description": "Dijital cüzdan ve e-para platformu. TCMB tarafından faaliyeti geçici olarak durduruldu.",
+    "website": "https://peple.com.tr",
+    "statusNote": "TCMB kararıyla 6493 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (b) ve (c) bentlerinde belirtilen ödeme hizmetleri ile 18 inci maddesinin ikinci fıkrasında belirtilen elektronik para ihracı hizmetine ilişkin faaliyet izni geçici olarak durdurulmuştur.",
+    "owner": "Paladyum",
+    "features": [
+      "E-Para",
+      "Döviz Hesabı",
+      "Sanal Kart"
+    ],
+    "phone": "0 (850) 450 5040",
+    "address": "Maslak Mah. Bilim Sk. Sun Plaza Blok No:5/A İç Kapı No: 24 Sarıyer/İstanbul",
+    "legalName": "Paladyum Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "aodeme",
+    "name": "Morpara",
+    "status": "active",
+    "category": "other",
+    "description": "Uluslararası para transferi ve dijital cüzdan hizmeti. Avrupa ve İngiltere'ye ücretsiz transfer, TROY sanal kart ve MoneyGram entegrasyonu ile öne çıkıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://morpara.com",
+    "phone": "0 (212) 215 3242",
+    "address": "Esentepe Mah. Büyükdere Cad. Astoria Blok No:127 İç Kapı No:63 Şişli/İstanbul",
+    "legalName": "A Ödeme ve Elektronik Para Hizmetleri A.Ş.",
+    "campaigns": [
+      {
+        "merchant": "Avrupa Transferi",
+        "offer": "200 TL Nakit İade",
+        "terms": "Avrupa hesaplarına transfer",
+        "category": "other",
+        "detail": "Morpara mobil uygulamasından Avrupa hesaplarına para gönderme ve alma işlemlerinde 200 TL nakit iade fırsatı."
+      },
+      {
+        "merchant": "Türk Hava Yolları",
+        "offer": "500 TL İndirim",
+        "terms": "TROY sanal kart ile",
+        "category": "travel",
+        "detail": "Morpara TROY sanal kart ile Türk Hava Yolları'ndan bilet alımlarında 500 TL indirim fırsatı."
+      },
+      {
+        "merchant": "MoneyGram",
+        "offer": "200 TL Nakit İade",
+        "terms": "Yurt dışı transfer",
+        "category": "other",
+        "detail": "Morpara kullanıcılarına Moneygram işlemlerinde 200 TL nakit iade avantajı."
+      },
+      {
+        "merchant": "Avrupa & UK Transfer",
+        "offer": "Ücretsiz Transfer",
+        "terms": "Komisyon yok",
+        "category": "other",
+        "detail": "Avrupa ve Birleşik Krallık hesaplarına para gönderirken ve alırken işlem ücreti ve komisyon alınmaz."
+      }
+    ]
+  },
+  {
+    "id": "ahlatci",
+    "name": "AHL Pay",
+    "status": "active",
+    "category": "niche",
+    "description": "Ahlatcı Holding'in dijital ödeme platformu. Altın alım-satım, nakit iade kampanyaları ve Mastercard destekli kart hizmetleri sunuyor. Geniş perakende ağında cashback fırsatları mevcut.",
+    "features": [
+      "E-Para",
+      "Altın"
+    ],
+    "website": "https://ahlpay.com.tr",
+    "phone": "444 9 066",
+    "address": "Yamanevler Mah. Ahmet Tevfik İleri Cad. 4B Plaza No:26 Kat:9 Ümraniye / İstanbul",
+    "legalName": "Ahlatcı Ödeme ve Elektronik Para Hizmetleri A.Ş.",
+    "campaigns": [
+      {
+        "merchant": "Martı",
+        "offer": "200 TL Kupon",
+        "terms": "31.03.2026'ya kadar",
+        "category": "travel",
+        "detail": "Masterpass'e kayıtlı Mastercard ile masterpassplus.com üzerinden 200 TL Martı kuponu kazanın. Scooter, Mobilet ve Moped sürüşlerinde geçerli."
+      },
+      {
+        "merchant": "Altın Al",
+        "offer": "Nakit Hediye",
+        "terms": "Belirli altın ürünlerinde",
+        "category": "shopping",
+        "detail": "1 Gr Altın, 1 Gr Bebek 24 Ayar, 50 Gr ve 100 Gr Gümüş dışındaki altın alımlarında harcama bakiyesi hediye."
+      },
+      {
+        "merchant": "Galataport Dolmuş",
+        "offer": "%50 İndirim",
+        "terms": "31.12.2026'ya kadar",
+        "category": "travel",
+        "detail": "Mastercard sahipleri için Galataport deniz dolmuşu bilet bedeli 250 TL yerine 125 TL. Günde 4 kez kullanılabilir."
+      },
+      {
+        "merchant": "ENUYGUN Uçak",
+        "offer": "1000 TL İndirim",
+        "terms": "6000 TL üzeri, 28.02.2026'ya kadar",
+        "category": "travel",
+        "detail": "ENUYGUN mobil uygulamasında 6.000 TL ve üzeri uçak bileti alımlarında 1000 TL indirim. Masterpass ile ödeme gerekli."
+      },
+      {
+        "merchant": "Pamukkale Turizm",
+        "offer": "100 TL İndirim",
+        "terms": "15.03.2026'ya kadar",
+        "category": "travel",
+        "detail": "Pamukkale Turizm web ve mobil uygulamasında bilet alımlarında 100 TL indirim. Masterpass ile ödeme gerekli."
+      },
+      {
+        "merchant": "Tıkla Gelsin",
+        "offer": "150 TL İndirim",
+        "terms": "400 TL üzeri, 31.01.2026'ya kadar",
+        "category": "food",
+        "detail": "Burger King, Popeyes, Arby's, Sbarro, Usta Dönerci, Usta Pideci ve Subway'de 400 TL üzeri siparişlerde 150 TL indirim."
+      },
+      {
+        "merchant": "Türk Hava Yolları",
+        "offer": "500 TL İndirim",
+        "terms": "TROY kart ile, 31.01.2026'ya kadar",
+        "category": "travel",
+        "detail": "TROY logolu kartlarla THY bilet alımlarında 500 TL indirim. Yurt içi: TROY500, Yurt dışı: TROY500YD kodunu kullanın."
+      },
+      {
+        "merchant": "ENUYGUN Otobüs",
+        "offer": "150 TL İndirim",
+        "terms": "İlk bilet, 300 TL üzeri",
+        "category": "travel",
+        "detail": "ENUYGUN mobil uygulamasından 300 TL ve üzeri ilk otobüs bileti alımında 150 TL indirim. Metro Turizm hariç."
+      },
+      {
+        "merchant": "Teknosa",
+        "offer": "%3 Nakit İade",
+        "terms": "AHL Pay ile ödeme",
+        "category": "shopping",
+        "detail": "Teknosa alışverişlerinde %3 nakit iade kazanın."
+      },
+      {
+        "merchant": "A-101",
+        "offer": "%3 Nakit İade",
+        "terms": "AHL Pay ile ödeme",
+        "category": "shopping",
+        "detail": "A-101 marketlerinde %3 nakit iade kazanın."
+      },
+      {
+        "merchant": "CarrefourSA",
+        "offer": "%4 Nakit İade",
+        "terms": "AHL Pay ile ödeme",
+        "category": "shopping",
+        "detail": "CarrefourSA marketlerinde %4 nakit iade kazanın."
+      },
+      {
+        "merchant": "Mavi",
+        "offer": "%10 Nakit İade",
+        "terms": "AHL Pay ile ödeme",
+        "category": "shopping",
+        "detail": "Mavi mağazalarında %10 nakit iade kazanın."
+      },
+      {
+        "merchant": "Koton",
+        "offer": "%10 Nakit İade",
+        "terms": "AHL Pay ile ödeme",
+        "category": "shopping",
+        "detail": "Koton mağazalarında %10 nakit iade kazanın."
+      },
+      {
+        "merchant": "FLO",
+        "offer": "%10 Nakit İade",
+        "terms": "AHL Pay ile ödeme",
+        "category": "shopping",
+        "detail": "FLO mağazalarında %10 nakit iade kazanın."
+      },
+      {
+        "merchant": "Madame Coco",
+        "offer": "%5 Nakit İade",
+        "terms": "AHL Pay ile ödeme",
+        "category": "shopping",
+        "detail": "Madame Coco mağazalarında %5 nakit iade kazanın."
+      }
+    ]
+  },
+  {
+    "id": "asodeme",
+    "name": "Moneytolia",
+    "status": "active",
+    "category": "other",
+    "description": "Kurumsal ve bireysel ödeme çözümleri sunan platform. Fatura ödeme, para transferi ve dijital cüzdan hizmetleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://moneytolia.com",
+    "phone": "0 (212) 278 8000",
+    "address": "Levent Mah. Levent Cad. ABM Parke No: 14 Beşiktaş/İstanbul",
+    "legalName": "As Ödeme Hizmetleri ve Elektronik Para A.Ş."
+  },
+  {
+    "id": "beeso",
+    "name": "Beeso",
+    "status": "active",
+    "category": "other",
+    "description": "Dijital ödeme ve e-para hizmetleri sunan platform. Kart bazlı ödeme çözümleri ve kurumsal hizmetler sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://beeso.com.tr",
+    "phone": "0 (212) 631 4243",
+    "address": "Aksaray Mah. Namık Kemal Cd. No:19/1 Fatih/İstanbul",
+    "legalName": "Beeso Elektronik Para ve Ödeme Kuruluşu A.Ş."
+  },
+  {
+    "id": "belbim",
+    "name": "İstanbulkart",
+    "status": "active",
+    "category": "niche",
+    "description": "İstanbul'un toplu taşıma kartı altyapısını işleten şirket. Ulaşım ödemelerinin yanı sıra otopark, müze girişi gibi şehir hizmetlerinde de kullanılabiliyor.",
+    "features": [
+      "E-Para",
+      "Ulaşım"
+    ],
+    "website": "https://belbim.istanbul",
+    "phone": "0(212) 468 0000",
+    "address": "Yeşilköy Mah. Atatürk Havalimanı Cad. İstanbul Dünya Ticaret Merkezi A3 Blok Kat:2-3-5-8 34149 Yeşilköy Bakırköy/İstanbul",
+    "legalName": "Belbim Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "bpn",
+    "name": "BPN",
+    "status": "active",
+    "category": "remittance",
+    "description": "Kurumsal ödeme çözümleri sunan B2B odaklı platform. İşletmelere özel toplu ödeme ve tahsilat hizmetleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://bpn.com.tr",
+    "phone": "0 (850) 312 9900",
+    "address": "Maslak Mah. AOS 53.Sk. No:7 Sarıyer/İstanbul",
+    "legalName": "BPN Ödeme ve Elektronik Para Hizmetleri A.Ş."
+  },
+  {
+    "id": "bsm",
+    "name": "BSM Pays",
+    "status": "active",
+    "category": "other",
+    "description": "Ödeme hizmetleri ve elektronik para çözümleri sunan kuruluş. Kurumsal müşterilere yönelik ödeme altyapısı sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://bsmpays.com",
+    "phone": "0 (850) 260 0960",
+    "address": "Cumhuriyet Mah. Yeni Yol 1 Sk. Bomonti Business Center No: 8 İç Kapı No: 72 Şişli/İstanbul",
+    "legalName": "BSM Ödeme Hizmetleri ve Elektronik Para A.Ş."
+  },
+  {
+    "id": "hepsipay",
+    "name": "Hepsipay",
+    "status": "active",
+    "category": "super-app",
+    "description": "Hepsiburada'nın ödeme altyapısı. Online alışverişlerde hızlı ödeme, taksitlendirme ve Hepsiburada ekosisteminde avantajlar sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://hepsipay.com",
+    "phone": "0 (850) 558 0200",
+    "address": "Kuştepe Mah. Mecidiyeköy Yolu Cad. Trump Tower Blok No: 12 İç Kapı No: 427 Şişli/İstanbul",
+    "legalName": "D Ödeme Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "dinamik",
+    "name": "DinamikPay",
+    "status": "active",
+    "category": "b2b",
+    "description": "POS ve ödeme terminali çözümleri sunan platform. İşyerlerine yönelik ödeme kabul hizmetleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://dinamikpay.com",
+    "phone": "0 (212) 371 0198",
+    "address": "Hamidiye Mah. Selçuklu Cad. A Blok 10/G K:2 Platform Office Kağıthane/İstanbul",
+    "legalName": "Dinamik Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "dgpara",
+    "name": "Dgpara",
+    "status": "active",
+    "category": "other",
+    "description": "Doğuş Grubu'nun dijital ödeme platformu. Grup şirketlerinde ve anlaşmalı işyerlerinde kullanılabilen ödeme çözümleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://dgpara.com",
+    "phone": "0 (212) 340 7777",
+    "address": "Maslak Mah. Eski Büyükdere Cad. Koç Kaya As Plaza No: 1/49 Sarıyer/İstanbul",
+    "legalName": "Dgpara Ödeme ve Elektronik Para Kuruluşu A.Ş."
+  },
+  {
+    "id": "dsm",
+    "name": "TrendyolPay",
+    "status": "active",
+    "category": "other",
+    "description": "Trendyol'un ödeme altyapısı. Trendyol platformunda hızlı ödeme, taksitlendirme ve cüzdan hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://trendyolpay.com",
+    "phone": "0 (212) 286 9096",
+    "address": "Maslak Mah. Saat Sk. Spine Plaza No: 5 İç Kapı No:19 Sarıyer/İstanbul",
+    "legalName": "DSM Ödeme ve Elektronik Para Hizmetleri A.Ş."
+  },
+  {
+    "id": "denizode",
+    "name": "DenizPay",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "DenizBank'ın dijital ödeme platformu. Banka hesabı olmadan kullanılabilen, para transferi ve kart hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://denizpay.com",
+    "phone": "0 (850) 737 7777",
+    "address": "Esentepe Mah. Büyükdere Cad. Denizbank No:141 İç Kapı No:10 Şişli/İstanbul",
+    "legalName": "Denizöde Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "faturamatik",
+    "name": "Faturamatik",
+    "status": "active",
+    "category": "niche",
+    "description": "Fatura ödeme ve tahsilat hizmetleri sunan platform. Elektrik, su, doğalgaz gibi fatura ödemelerini kolaylaştırıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://faturamatik.com.tr",
+    "phone": "0 (216) 561 3434",
+    "address": "Zümrütevler Mah. Acarlar Sk. No:16 Maltepe/İstanbul",
+    "legalName": "Faturamatik Elektronik Para ve Ödeme Kuruluşu A.Ş."
+  },
+  {
+    "id": "fintlix",
+    "name": "Fairpay",
+    "status": "active",
+    "category": "other",
+    "description": "Dijital ödeme ve e-para hizmetleri sunan platform. Bireysel ve kurumsal ödeme çözümleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://fairpay.com.tr",
+    "phone": "0 (216) 994 0994",
+    "address": "Acıbadem Mah. Çeçen Sk. Akasya A Kule Kent Etabı Blok No:25A İç Kapı No:8 Üsküdar / İSTANBUL",
+    "legalName": "Fintlix Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "fzypay",
+    "name": "Fzypay",
+    "status": "suspended",
+    "category": "other",
+    "description": "Dijital ödeme platformu. TCMB tarafından faaliyeti geçici olarak durduruldu.",
+    "statusNote": "TCMB tarafından 6493 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (b) ve (c) bentlerinde belirtilen ödeme hizmetleri ile 18 inci maddesinin ikinci fıkrasında belirtilen elektronik para ihracı hizmetine ilişkin faaliyet izni geçici olarak durdurulmuştur.",
+    "website": "https://fzypay.com",
+    "phone": "0 (850) 339 9729",
+    "address": "Küçükbakkalköy Mah. Kayışdağı Cad. Pınarbaşı Plaza No:117/3 Ataşehir/İstanbul",
+    "legalName": "Fzypay Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "garantiode",
+    "name": "Tami",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "Garanti BBVA'nın dijital ödeme platformu. Temassız ödeme ve para transferi hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://tami.com.tr",
+    "phone": "444 0 777",
+    "address": "Nisbetiye Mah. Barbaros Bulvarı Çiftçi Towers No:96/266 Beşiktaş/İstanbul",
+    "legalName": "Garanti Ödeme ve Elektronik Para Hizmetleri A.Ş."
+  },
+  {
+    "id": "gonderal",
+    "name": "Gönderal",
+    "status": "active",
+    "category": "remittance",
+    "description": "Para transferi odaklı dijital platform. Hızlı ve güvenli para gönderimi hizmetleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://gonder-al.com",
+    "phone": "0 (850) 242 4442",
+    "address": "Vadipark Seyrantepe K:3 34408 Kağıthane/İstanbul",
+    "legalName": "Gönderal Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "halk",
+    "name": "Parao",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "Halkbank'ın dijital ödeme uygulaması. Banka hesabı gerektirmeden para transferi ve ödeme imkanları sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://parao.com.tr",
+    "phone": "0 (216) 285 5656",
+    "address": "Barbaros Mah. Mor Sümbül Sk. WBC İş Merkezi Blok No: 9 İç Kapı No:9 Ataşehir/İstanbul",
+    "legalName": "Halk Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "hayhay",
+    "name": "Hayhay",
+    "status": "active",
+    "category": "other",
+    "description": "Ankara merkezli dijital ödeme platformu. Bireysel kullanıcılara yönelik ödeme çözümleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://hayhay.com",
+    "phone": "0 (312) 584 0494",
+    "address": "Kızılırmak Mah. Ufuk Üniversitesi Cad. No:13/B/1 İç Kapı No:3 Çankaya / ANKARA",
+    "legalName": "Hayhay Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "istanbulode",
+    "name": "İstPay",
+    "status": "active",
+    "category": "niche",
+    "description": "İstanbul merkezli ödeme hizmetleri platformu. Kurumsal ve bireysel ödeme çözümleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://ist-pay.com",
+    "phone": "0 (212) 280 6695 / 96",
+    "address": "Esentepe Mah. Büyükdere Cad. No: 173 1. Levent Plaza A Blok Kat:10 Şişli/İstanbul",
+    "legalName": "İstanbul Ödeme ve Elektronik Para A.Ş."
+  },
+  {
+    "id": "iyzi",
+    "name": "iyzico",
+    "status": "active",
+    "category": "b2b",
+    "description": "Türkiye'nin en büyük online ödeme altyapısı sağlayıcılarından. E-ticaret siteleri için sanal POS, pazaryeri çözümleri ve ödeme koruma hizmetleri sunuyor. PayU tarafından satın alındı.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://iyzico.com",
+    "phone": "0 (216) 599 0100",
+    "address": "Altunizade Mah. İnci Çıkmazı Sk. No: 3 İç Kapı No: 10 Üsküdar/İstanbul",
+    "legalName": "İyzi Ödeme ve Elektronik Para Hizmetleri A.Ş."
+  },
+  {
+    "id": "junomoney",
+    "name": "Juno Money",
+    "status": "active",
+    "category": "other",
+    "description": "Dijital cüzdan ve ödeme hizmetleri sunan platform. Para transferi ve kart hizmetleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://junomoney.com.tr",
+    "phone": "0 (216) 987 0779",
+    "address": "Barbaros Mah. Begonya Sok. No:7 A+Live Tower D:17 Ataşehir/İstanbul",
+    "legalName": "Junomoney Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "mokaunited",
+    "name": "Moka",
+    "status": "active",
+    "category": "b2b",
+    "description": "İşletmelere yönelik ödeme çözümleri platformu. Mobil POS, sanal POS ve e-ticaret entegrasyonları sunuyor. İş Bankası tarafından satın alındı.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://mokaunited.com",
+    "phone": "0 (212) 241 5459",
+    "address": "Levent Mah. Meltem Sk. İş Bankası Kuleleri No:10 İç Kapı No:4 Beşiktaş/İstanbul",
+    "legalName": "Moka United Ödeme Hizmetleri ve Elektronik Para Kuruluşu A.Ş."
+  },
+  {
+    "id": "moneymate",
+    "name": "Moneymate",
+    "status": "active",
+    "category": "other",
+    "description": "Ankara merkezli dijital ödeme platformu. Kurumsal ve bireysel ödeme hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://moneymate.com.tr",
+    "phone": "0 (312) 979 9550",
+    "address": "Altay Mah. Atayıldız Platinum Plaza Ayaş Ankara Yolu Blv. No:60 Blok No:212 Etimesgut / Ankara",
+    "legalName": "Moneymate Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "moneyout",
+    "name": "Moneyout",
+    "status": "active",
+    "category": "b2b",
+    "description": "Para transferi ve ödeme hizmetleri sunan platform. Yurt içi ve yurt dışı transfer çözümleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://moneyout.com.tr",
+    "phone": "0 (212) 603 6595",
+    "address": "Esentepe Mah. Büyükdere Cad. No171 Metrocity İç Kapı No:15 Kat:-4 Şişli/İstanbul",
+    "legalName": "Moneyout Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "moneypay",
+    "name": "Moneypay",
+    "status": "active",
+    "category": "super-app",
+    "description": "Dijital ödeme ve e-para platformu. Bireysel ve kurumsal ödeme çözümleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://moneypay.com.tr",
+    "phone": "0 (850) 297 5555",
+    "address": "Atatürk Mahallesi Turgut Özal Bulvarı No:7 Ataşehir/İstanbul",
+    "legalName": "Moneypay Ödeme ve Elektronik Para Hizmetleri A.Ş."
+  },
+  {
+    "id": "nkolay",
+    "name": "N Kolay",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "Kentsel dönüşüm ve konut projelerinde kullanılan ödeme platformu. Kira ve aidat ödemeleri için çözümler sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://nkolayislem.com.tr",
+    "phone": "0 (850) 377 7374 / 0 (212) 955 0015",
+    "address": "Maltepe Mah. Davutpaşa Cad. Cebe Ali Bey Sk. No:7 Zeytinburnu/İstanbul",
+    "legalName": "N Kolay Ödeme ve Elektronik Para Kuruluşu A.Ş."
+  },
+  {
+    "id": "nomupay",
+    "name": "Nomu Pay",
+    "status": "active",
+    "category": "b2b",
+    "description": "Dijital ödeme hizmetleri sunan platform. Kurumsal ödeme çözümleri ve e-para hizmetleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://nomupay.com.tr",
+    "phone": "0 (212) 286 2718",
+    "address": "Maslak Mah. AOS 55. Sk. 42 Maslak B Blok Sitesi No: 4 Kat:18 D:2/658 Sarıyer/İstanbul",
+    "legalName": "Nomu Pay Ödeme ve Elektronik Para Hizmetleri A.Ş."
+  },
+  {
+    "id": "papel",
+    "name": "Papel",
+    "status": "suspended",
+    "category": "super-app",
+    "description": "Dijital cüzdan ve ödeme uygulaması. Para transferi ve kart hizmetleri sunuyordu. TCMB tarafından faaliyeti geçici olarak durduruldu.",
+    "statusNote": "TCMB kararıyla 6493 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (b) ve (c) bentlerinde belirtilen ödeme hizmetleri ile 18 inci maddesinin ikinci fıkrasında belirtilen elektronik para ihracı hizmetine ilişkin faaliyet izni geçici olarak durdurulmuştur.",
+    "website": "https://papel.com.tr",
+    "phone": "0 (850) 241 2424",
+    "address": "Maslak Mah. Eski Büyükdere Cad. Link Plaza Blok No:3-5 İç Kapı No:33 Sarıyer/İstanbul",
+    "legalName": "Papel Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "parakolay",
+    "name": "Parakolay",
+    "status": "active",
+    "category": "b2b",
+    "description": "E-ticaret odaklı ödeme çözümleri. Online mağazalar için sanal POS ve ödeme altyapısı sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://parakolay.com",
+    "phone": "0 (850) 214 0300",
+    "address": "Kaptanpaşa Mah. Darülaceze Cad. Halit Ziya Türkkan Sk. Famas Plaza A Blok Bina No:17 Kat:1 No:3 Şişli/İstanbul",
+    "legalName": "Parakolay Elektronik Para A.Ş."
+  },
+  {
+    "id": "paratim",
+    "name": "Paratim",
+    "status": "active",
+    "category": "b2b",
+    "description": "Kurumsal ödeme çözümleri platformu. İşletmelere yönelik toplu ödeme ve tahsilat hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://paratim.com.tr",
+    "phone": "0 (850) 885 1846",
+    "address": "Atatürk Mah. Ertuğrul Gazi sok. Metropol İstanbul Sitesi A Blok No:2E İç Kapı No:9 Ataşehir / İstanbul",
+    "legalName": "Paratim Ödeme ve Elektronik Para Kuruluşu A.Ş."
+  },
+  {
+    "id": "paraqr",
+    "name": "ParaQR",
+    "status": "suspended",
+    "category": "b2b",
+    "description": "QR kod tabanlı ödeme çözümleri sunan platform. TCMB tarafından faaliyeti geçici olarak durduruldu.",
+    "statusNote": "TCMB kararıyla 6493 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (b) ve (c) bentlerinde belirtilen ödeme hizmetleri ile 18 inci maddesinin ikinci fıkrasında belirtilen elektronik para ihracı hizmetine ilişkin faaliyet izni geçici olarak durdurulmuştur.",
+    "website": "https://paraqr.com",
+    "phone": "0 (850) 800 0077",
+    "address": "Atatürk Mah. Ertuğrul Gazi Sk. Metropol İstanbul Sitesi C1 Blok No:2b İç Kapı No:8 Ataşehir/İstanbul",
+    "legalName": "ParaQR Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "parolapara",
+    "name": "Parolapara",
+    "status": "suspended",
+    "category": "other",
+    "description": "Dijital ödeme platformu. TCMB tarafından faaliyeti geçici olarak durduruldu.",
+    "statusNote": "TCMB kararıyla 6493 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (b) ve (c) bentlerinde belirtilen ödeme hizmetleri ile 18 inci maddesinin ikinci fıkrasında belirtilen elektronik para ihracı hizmetine ilişkin faaliyet izni geçici olarak durdurulmuştur.",
+    "website": "https://parolapara.com",
+    "phone": "0 (850) 307 0072",
+    "address": "Cevizli Mah. Tugay Yolu Cad. Piazza Ofis No:69A İç Kapı No:62 Maltepe/İstanbul",
+    "legalName": "Parolapara Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "payco",
+    "name": "Payco",
+    "status": "suspended",
+    "category": "other",
+    "description": "Ödeme hizmetleri platformu. TCMB tarafından faaliyeti geçici olarak durduruldu.",
+    "statusNote": "TCMB kararıyla 6493 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (b) ve (c) bentlerinde belirtilen ödeme hizmetleri ile 18 inci maddesinin ikinci fıkrasında belirtilen elektronik para ihracı hizmetine ilişkin faaliyet izni geçici olarak durdurulmuştur.",
+    "website": "https://payco.com.tr",
+    "phone": "0 (850) 242 7298",
+    "address": "Yeni Sahra Mah. Sütçü Yolu Cd. No:62 İç Kapı No:3 Ataşehir/İstanbul",
+    "legalName": "Payco Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "payporter",
+    "name": "Payporter",
+    "status": "active",
+    "category": "remittance",
+    "description": "Uluslararası para transferi platformu. Yurt dışından Türkiye'ye ve Türkiye'den yurt dışına para gönderimi hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://payporter.com.tr",
+    "phone": "0 (850) 811 0077",
+    "address": "Fulya Mah. Büyükdere Cad. Likör Yanı Sk. No:1/13 Akabe Ticaret Merkezi Şişli/İstanbul",
+    "legalName": "Payporter Ödeme Hizmetleri ve Elektronik Para A.Ş."
+  },
+  {
+    "id": "paytr",
+    "name": "PayTR",
+    "status": "active",
+    "category": "b2b",
+    "description": "E-ticaret ödeme altyapısı sağlayıcısı. Sanal POS, link ile ödeme, pazaryeri çözümleri ve abonelik yönetimi hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://paytr.com",
+    "phone": "0 (850) 441 3266",
+    "address": "Atatürk Cad. No:126 Kat:5 İç Kapı No:51 Alsancak/İzmir",
+    "legalName": "Paytr Ödeme ve Elektronik Para Kuruluşu A.Ş."
+  },
+  {
+    "id": "pratikislem",
+    "name": "Pratik İşlem",
+    "status": "active",
+    "category": "other",
+    "description": "Fatura ve ödeme hizmetleri platformu. Kurumsal tahsilat çözümleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://pratikislem.com.tr",
+    "phone": "0 (850) 480 6060",
+    "address": "Tatlısu Mah. Akif İnan Sk. No:5 İç Kapı No:35 Ümraniye/İstanbul",
+    "legalName": "Pratik İşlem Ödeme ve Elektronik Para A.Ş."
+  },
+  {
+    "id": "qpay",
+    "name": "Qpay",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "QNB Finansbank'ın dijital ödeme platformu. Hızlı ödeme ve para transferi hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://qpay.com.tr",
+    "phone": "0 (216) 285 7729",
+    "address": "İçerenköy Mah. Umut Sk. Quick Tower Sitesi No:10-12 Z Kat İç Kapı No:4 Ataşehir/İstanbul",
+    "legalName": "Qpay Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "rubik",
+    "name": "Rubik Para",
+    "status": "active",
+    "category": "b2b",
+    "description": "Dijital cüzdan ve e-para platformu. Bireysel kullanıcılara yönelik ödeme çözümleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://rubikpara.com",
+    "phone": "0 (850) 532 0725",
+    "address": "Dikilitaş Mah. Emirhan Cd. Ata Plaza A Blok No:109 İç Kapı No:14 Beşiktaş/İstanbul",
+    "legalName": "Rubik Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "sbm_f",
+    "name": "SBM Digital",
+    "status": "active",
+    "category": "other",
+    "description": "Dijital ödeme ve e-para hizmetleri sunan kuruluş. Kurumsal ödeme çözümleri sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://sbmdigital.biz",
+    "phone": "0 (216) 514 2888",
+    "address": "Murat Reis Mah. Yeni Ocak Sk. No:35 Üsküdar/İstanbul",
+    "legalName": "SBM Elektronik Para ve Ödeme Kuruluşu A.Ş."
+  },
+  {
+    "id": "token",
+    "name": "Oderopay",
+    "status": "active",
+    "category": "b2b",
+    "description": "Dijital ödeme ve para transferi platformu. Hızlı ve güvenli ödeme hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://oderopay.com.tr",
+    "phone": "0 (212) 953 1853",
+    "address": "Ayazağa Mah. Mimar Sinan Sk. No:21 A İç Kapı No: 44 Sarıyer/İstanbul",
+    "legalName": "Token Ödeme Hizmetleri ve Elektronik Para A.Ş."
+  },
+  {
+    "id": "hadi_t",
+    "name": "TomPay",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "Dijital cüzdan ve ödeme uygulaması. Para transferi ve kart hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://tompay.com.tr",
+    "phone": "0 (850) 211 9555",
+    "address": "Burhaniye Mah. Nagehan Sok. B Blok No:4C İç Kapı No:1 Üsküdar/İstanbul",
+    "legalName": "Tom Pay Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "pokus_t",
+    "name": "Türk Telekom Ödeme",
+    "status": "active",
+    "category": "telco",
+    "description": "Türk Telekom'un dijital ödeme platformu. Fatura ödeme, kontör yükleme ve dijital içerik satın alma hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://turktelekomodemehizmetleri.com",
+    "phone": "444 1 444",
+    "address": "Gayrettepe Mah. Yıldız Posta Cad. Vefa Bayırı Sk. No:2 Kule Bina Kat:16 Beşiktaş/İstanbul",
+    "legalName": "TT Ödeme ve Elektronik Para Hizmetleri A.Ş."
+  },
+  {
+    "id": "ttm",
+    "name": "Bupara",
+    "status": "active",
+    "category": "other",
+    "description": "Dijital ödeme ve e-para platformu. Bireysel ve kurumsal ödeme çözümleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://bupara.com",
+    "phone": "0 (850) 886 8686",
+    "address": "Defterdar Mah. Otakçılar Cad. Kar Plaza Apt. No:80 D/4 Eyüpsultan/İstanbul",
+    "legalName": "TTM Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "param_t",
+    "name": "Param",
+    "status": "active",
+    "category": "b2b",
+    "description": "Dijital cüzdan ve ödeme platformu. Para transferi, fatura ödeme ve online alışveriş hizmetleri sunuyor. Geniş kullanıcı ağına sahip.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://param.com.tr",
+    "phone": "0 (850) 988 8875",
+    "address": "Prof. Dr. Ahmet Taner Kışlalı Mah. 2405 Sk. No:5 Çankaya/Ankara",
+    "legalName": "Turk Elektronik Para A.Ş."
+  },
+  {
+    "id": "paycell_t",
+    "name": "Paycell",
+    "status": "active",
+    "category": "telco",
+    "description": "Turkcell'in dijital cüzdan ve ödeme platformu. Telefon faturası ödeme, para transferi, online alışveriş ve temassız ödeme hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://paycell.com.tr",
+    "phone": "0 (850) 622 6060",
+    "address": "Aydınevler Mah. İsmet İnönü Cad. Turkcell Blok No:36 Maltepe/İstanbul",
+    "legalName": "Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş."
+  },
+  {
+    "id": "turkonay",
+    "name": "Turkonay",
+    "status": "active",
+    "category": "niche",
+    "description": "Dijital ödeme hizmetleri sunan platform. Bireysel ve kurumsal çözümler sağlıyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://turkonay.com.tr",
+    "phone": "0 (216) 445 3777",
+    "address": "Ünalan Mah. Libadiye Cd. No:84/2 İç Kapı No:2 Üsküdar/İstanbul",
+    "legalName": "Turkonay Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "thy_t",
+    "name": "TK Pay",
+    "status": "active",
+    "category": "niche",
+    "description": "Türk Hava Yolları'nın dijital ödeme platformu. THY ekosisteminde kullanılabilen ödeme ve sadakat programı hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://tkpay.com",
+    "phone": "0 (212) 463 6363",
+    "address": "Yeşilköy Mah. Havaalanı Cad. Thy B Blok Sitesi İdari Bina No:3/1 Bakırköy/İstanbul",
+    "legalName": "Türk Hava Yolları Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "uption_t",
+    "name": "UPT",
+    "status": "active",
+    "category": "remittance",
+    "description": "Para transferi ve ödeme hizmetleri platformu. Yurt içi ve yurt dışı para gönderimi, fatura ödeme hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://upt.com.tr",
+    "phone": "0 (850) 724 0878",
+    "address": "Esentepe Mah. Kore Şehitleri Cad. No:8/1 Şişli/İstanbul",
+    "legalName": "UPT Ödeme Hizmetleri ve Elektronik Para A.Ş."
+  },
+  {
+    "id": "vakif_t",
+    "name": "Vakıfpay",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "VakıfBank'ın dijital ödeme platformu. Para transferi, QR ile ödeme ve dijital cüzdan hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://vakifpays.com.tr",
+    "phone": "0 (850) 311 0729",
+    "address": "İnkılap Mah. Dr Adnan Büyükdeniz Cad. No:7/A İç Kapı No:6 Ümraniye/İstanbul",
+    "legalName": "Vakıf Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "vepara",
+    "name": "Vepara",
+    "status": "suspended",
+    "category": "other",
+    "description": "Dijital cüzdan ve ödeme uygulaması. TCMB tarafından faaliyeti geçici olarak durduruldu.",
+    "statusNote": "TCMB tarafından 6493 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (b) ve (c) bentlerinde belirtilen ödeme hizmetleri ile 18 inci maddesinin ikinci fıkrasında belirtilen elektronik para ihracı hizmetine ilişkin faaliyet izni geçici olarak durdurulmuştur.",
+    "website": "https://vepara.com.tr",
+    "phone": "0 (850) 241 8297",
+    "address": "İnkılap Mah. Dr. Adnan Büyükdeniz Cad. 2.Blok No:4 İç Kapı No:8 Kat:3 Ümraniye/İstanbul",
+    "legalName": "Vepara Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "vizyon",
+    "name": "Vizyonpay",
+    "status": "active",
+    "category": "other",
+    "description": "Dijital ödeme ve e-para platformu. Kurumsal ve bireysel ödeme çözümleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://vizyonpay.com",
+    "phone": "0 (850) 533 0333",
+    "address": "Esentepe Mah. Büyükdere Cad. No:102 Maya Akar Center Kat:8 37-38 Şişli/İstanbul",
+    "legalName": "Vizyon Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "vodafone_t",
+    "name": "Vodafone Pay",
+    "status": "active",
+    "category": "telco",
+    "description": "Vodafone'un dijital ödeme platformu. Telefon faturası ödeme, para transferi ve online alışveriş hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://vodafonepay.com.tr",
+    "phone": "0 (850) 542 0000",
+    "address": "Maslak Mh. Büyükdere Cd. Büyükdere 251 No:251 Sarıyer/İstanbul",
+    "legalName": "Vodafone Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "yemekpay_t",
+    "name": "Yemekpay",
+    "status": "active",
+    "category": "niche",
+    "description": "Yeme-içme sektörüne özel ödeme çözümleri. Yemek kartı ve kurumsal yemek hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://yemekpay.com",
+    "phone": "0 (212) 274 1800",
+    "address": "Esentepe Mah. Dede Korkut Sk. Ferko Signature Blok No: 28/11 Şişli/İstanbul",
+    "legalName": "Yemekpay Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "ziraat_t",
+    "name": "Ziraatpay",
+    "status": "active",
+    "category": "bank-subsidiary",
+    "description": "Ziraat Bankası'nın dijital ödeme platformu. Banka hesabı gerektirmeden para transferi ve ödeme hizmetleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://ziraatpay.com.tr",
+    "phone": "0 (216) 591 2016",
+    "address": "Finanskent Mah. Finans Cad. B Blok No:44/B İç Kapı No:11 Ümraniye/İstanbul",
+    "legalName": "Ziraat Finansal Teknolojiler Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  },
+  {
+    "id": "1000pay",
+    "name": "1000Pay",
+    "status": "active",
+    "category": "niche",
+    "description": "Dijital ödeme ve e-para platformu. Bireysel ve kurumsal ödeme çözümleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://1000pay.com",
+    "phone": "444 10 04",
+    "address": "Yamanevler Mah. Sanayi Cad. A Blok No:56 İç Kapı No:5 Ümraniye/İstanbul",
+    "legalName": "1000 Ödeme Hizmetleri ve Elektronik Para A.Ş."
+  },
+  {
+    "id": "ininal",
+    "name": "İninal",
+    "status": "revoked",
+    "category": "other",
+    "description": "Türkiye'nin ilk bağımsız ön ödemeli kart platformuydu. Market ve PTT şubelerinden temin edilebilen kartlarıyla tanınıyordu. Lisansı iptal edildi.",
+    "statusNote": "Lisans iptal.",
+    "website": "https://ininal.com",
+    "legalName": "İninal Ödeme ve Elektronik Para Hizmetleri A.Ş."
+  },
+  {
+    "id": "erpa",
+    "name": "Erpapay",
+    "status": "active",
+    "category": "other",
+    "description": "Ankara merkezli ödeme hizmetleri kuruluşu. Kurumsal ve bireysel ödeme çözümleri sunuyor.",
+    "features": [
+      "E-Para"
+    ],
+    "website": "https://erpapay.com",
+    "phone": "0 (312) 439 0439",
+    "address": "Mustafa Kemal Mah. 2125. Sk. No: 5 Erpa Plaza Çankaya/Ankara",
+    "legalName": "Erpa Ödeme Hizmetleri ve Elektronik Para A.Ş."
+  },
+  {
+    "id": "lydians",
+    "name": "Fups",
+    "status": "active",
+    "category": "super-app",
+    "description": "Dijital cüzdan ve ön ödemeli kart platformu. Gençlere yönelik tasarlanmış, ebeveyn kontrollü harcama özellikleri ve cashback kampanyaları sunuyor.",
+    "features": [
+      "E-Para",
+      "Dijital Cüzdan"
+    ],
+    "website": "https://fups.com",
+    "phone": "0 (216) 886 0250",
+    "address": "Finanskent Mah. Finans Cad. Sarphan Finans Merkezi Sitesi A Blok No:5A/219 Ümraniye/İstanbul",
+    "legalName": "Lydians Elektronik Para ve Ödeme Hizmetleri A.Ş."
+  }
+]
